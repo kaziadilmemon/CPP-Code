@@ -1,2 +1,7 @@
-# data-types-practice-1
-it is practice just learnt from code wit herry tutorail 4 about data types 
+##include<iostream>
+using namespace std;
+int main() { 
+int a=4;
+int b=30;
+cout<<"this is tutorial 4 . this is value of a"<<a<< "this is value of b"<<b;
+ return 0; }
