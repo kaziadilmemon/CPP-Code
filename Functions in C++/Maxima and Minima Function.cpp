@@ -13,6 +13,7 @@ int maxima(int i,int j,int k){
 	}
 	return i,j,k;
 }
+
 int minima(int i,int j,int k){
 	if(i<j&&i<k){
 		cout<<" first number is smallest"<<i<<endl;
