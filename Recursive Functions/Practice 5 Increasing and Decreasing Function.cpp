@@ -8,6 +8,7 @@ void dec(int n ){
 	cout<<n<<endl;
 	dec(n-1);
 }
+
 void inc(int n){
 	if(n==1){
 		return 1;
