@@ -28,6 +28,7 @@ int minima(int i,int j,int k){
 return i,j,k;
 }
 
+
 int main(){
 	int i,j,k;
 	cin>>i>>j>>k;
