@@ -18,6 +18,7 @@ void inc(int n){
 }
 
 int main()
+	
 {
 	int n;
 	inc(n)<<endl;
