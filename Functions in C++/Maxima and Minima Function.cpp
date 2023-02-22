@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int maxima(int i,int j,int k){
 	if(i>j&&i>k){
 		cout<<" first number is greatest"<<i<<endl;
