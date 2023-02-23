@@ -17,6 +17,4 @@ int main(){
 	swap(x,y);
 	cout<<"the value of x is"<<x<<" and the valeu of y is"<<y<<endl;
 	return 0;
-	
-	
-}
+	}
