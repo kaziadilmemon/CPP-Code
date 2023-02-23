@@ -23,4 +23,3 @@ cout<<mathmarks[3]<<endl;
 	return 0;
 	
 }
-
