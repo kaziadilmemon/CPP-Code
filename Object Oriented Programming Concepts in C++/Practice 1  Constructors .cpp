@@ -23,3 +23,4 @@ int main(){
 	employee employee2=employee("john","Amazon",35);
 	employee2.yourself();
 }
+
