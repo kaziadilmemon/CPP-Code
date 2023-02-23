@@ -10,6 +10,7 @@ int main() {
 		if (pocketmoney==0){
 			break;
 		}cout<<" go out today! "<<endl;
+		
 	pocketmoney=pocketmoney-300;
 	} return 0;
 }
