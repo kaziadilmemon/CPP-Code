@@ -14,6 +14,3 @@ int main(){
 	cout<<sum(n)<<endl;
 	return 0;
 }
-
-
-
