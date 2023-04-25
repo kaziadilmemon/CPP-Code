@@ -10,3 +10,4 @@ int main(){
 	cout<<"For vip: If you have"<<money<<"Rs in your bank account,you will receive"<<moneyreceived(money,1.4)<<" Rs after 1 year";
 	return 0;
 }
+
